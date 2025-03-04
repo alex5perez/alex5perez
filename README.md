@@ -11,7 +11,7 @@
 
 - 📫 Cómo ponerse en contacto conmigo **alexperezrubio8@gmail.com**
 
-- 📄 Conoce mis experiencias [[https://alexperezrubio.com/Alex%20Perez%20Rubio%20Desarrollador%20Full%20Stack%202025.pdf](https://alexperezrubio.com/AlexPerezRubioDesarrolladorWebFullStack.pdf)]([https://alexperezrubio.com/Alex%20Perez%20Rubio%20Desarrollador%20Full%20Stack%202025.pdf](https://alexperezrubio.com/AlexPerezRubioDesarrolladorWebFullStack.pdf))
+- 📄 Conoce mis experiencias [https://alexperezrubio.com/AlexPerezRubioDesarrolladorWebFullStack.pdf](https://alexperezrubio.com/AlexPerezRubioDesarrolladorWebFullStack.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
