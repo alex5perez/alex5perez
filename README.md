@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Álex Pérez Rubio</h1>
 <h3 align="center">Desarrollador Software y Web Full Stack con Creatividad y competitivo.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Ruleta API Twitch](link)
+- 🔭 Actualmente estoy trabajando en eTrivium como Desarrollador Full Stack
 
--  🔭 También estoy trabajando en [Página de minijuegos con Unity](link)
+-  🔭 También estoy trabajando en Paginas Web en Fiverr
 
 - 🌱 Actualmente estoy mejorando mis skills en **JavaScript, Python y React**
 
