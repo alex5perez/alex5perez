@@ -5,7 +5,7 @@
 
 -  🔭 También estoy trabajando en Paginas Web en Fiverr
 
-- 🌱 Actualmente estoy mejorando mis skills en **JavaScript, Python y React**
+- 🌱 Actualmente estoy mejorando mis skills en **React y Spring Boot**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.alexperezrubio.com](www.alexperezrubio.com)
 
