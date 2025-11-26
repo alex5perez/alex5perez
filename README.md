@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Álex Pérez Rubio</h1>
 <h3 align="center">Desarrollador Software y Web Full Stack con Creatividad y competitivo.</h3>
 
-- 🔭 Actualmente estoy trabajando en eTrivium como Desarrollador Full Stack
+- 🔭 Actualmente estoy formandome como Desarrollador Full Stack
 
 -  🔭 También estoy trabajando en Paginas Web en Fiverr
 
-- 🌱 Actualmente estoy mejorando mis skills en **React y Spring Boot**
+- 🌱 Actualmente estoy mejorando mis skills en **React y Java**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [www.alexperezrubio.com](www.alexperezrubio.com)
 
