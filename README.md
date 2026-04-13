@@ -1,23 +1,23 @@
-<h1 align="center">Hola ??, soy Álex Pérez Rubio</h1>
-<h3 align="center">DevOps Junior · CI/CD · Java & Spring Boot</h3>
+ï»¿<h1 align="center">Hola ğŸ‘‹, soy Ãlex PÃ©rez Rubio</h1>
+<h3 align="center">DevOps Junior Â· CI/CD Â· Java &amp; Spring Boot</h3>
 
 <p align="center">
-  Técnico con experiencia en integración continua y gestión de entornos de software.<br/>
+  TÃ©cnico con experiencia en integraciÃ³n continua y gestiÃ³n de entornos de software.<br/>
   Actualmente construyendo proyectos con <strong>Java + Spring Boot</strong> para seguir creciendo en backend.
 </p>
 
-- ?? Experiencia real en **Jenkins, Maven, Nexus, SVN, Azure** — gestión de releases en entornos empresariales
-- ?? Aprendiendo y practicando **Java + Spring Boot + REST APIs**
-- ????? Proyectos disponibles en [alexperezrubio.com](https://alexperezrubio.com)
-- ?? Contacto: **alexperezrubio8@gmail.com**
-- ?? Tarragona, España
+- ğŸ’¼ Experiencia real en **Jenkins, Maven, Nexus, SVN, Azure** â€” gestiÃ³n de releases en entornos empresariales
+- ğŸŒ± Aprendiendo y practicando **Java + Spring Boot + REST APIs**
+- ğŸ‘¨â€ğŸ’» Proyectos disponibles en [alexperezrubio.com](https://alexperezrubio.com)
+- ğŸ“« Contacto: **alexperezrubio8@gmail.com**
+- ğŸ“ Tarragona, EspaÃ±a
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-perez-rubio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-perez-rubio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tecnologías y herramientas:</h3>
+<h3 align="left">TecnologÃ­as y herramientas:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/></a>
